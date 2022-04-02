@@ -1,0 +1,13 @@
+Fungsi,Nama Variabel,Semesta Pembicaraan, Himpunan Fuzzy,Domain
+Input,Usia,"[ 8 , 19 ]",Rendah,"[ 8 , 14.0 ]"
+Input,Usia,"[ 8 , 19 ]",Tinggi,"[ 13.0 , 19 ]"
+Input,Berat,"[ 455 , 1000 ]",Rendah,"[ 455 , 827.5 ]"
+Input,Berat,"[ 455 , 1000 ]",Tinggi,"[ 807.5 , 1000 ]"
+Input,Keliling,"[ 29.0 , 47.0 ]",Rendah,"[ 29.0 , 43.0 ]"
+Input,Keliling,"[ 29.0 , 47.0 ]",Tinggi,"[ 41.0 , 47.0 ]"
+Input,Ukurang Batang,"[ 2.0 , 5.5 ]",Rendah,"[ 2.0 , 4.5 ]"
+Input,Ukurang Batang,"[ 2.0 , 5.5 ]",Tinggi,"[ 3.5 , 5.5 ]"
+Input,Jarak Duri,"[ 7.0 , 11.4 ]",Rendah,"[ 7.0 , 9.95 ]"
+Input,Jarak Duri,"[ 7.0 , 11.4 ]",Tinggi,"[ 8.95 , 11.4 ]"
+Output,Keterangan,"[ 0 , 1 ]",Rendah (Mentah),"[ 0 , 0.5 ]"
+Output,Keterangan,"[ 0 , 1 ]",Tinggi (Masak),"[ 0.5 , 1 ]"

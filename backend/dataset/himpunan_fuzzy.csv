@@ -1,0 +1,13 @@
+Fungsi,Nama Variabel,Semesta Pembicaraan, Himpunan Fuzzy,Domain
+Input,Usia,Sini semesta usia,Rendah,domain rendah usia
+Input,Usia,Sini semesta usia,Tinggi,domain tinggi usia
+Input,Berat,Sini semesta berat,Rendah,domain rendah berat
+Input,Berat,Sini semesta berat,Tinggi,domain tinggi berat
+Input,Keliling,Sini semesta keliling,Rendah,domain rendah keliling
+Input,Keliling,Sini semesta keliling,Tinggi,domain tinggi keliling
+Input,Ukurang Batang,Sini semesta ukuran batang,Rendah,domain rendah ukuran batang
+Input,Ukurang Batang,Sini semesta ukuran batang,Tinggi,domain tinggi ukuran batang
+Input,Jarak Duri,Sini semesta jarak duri,Rendah,domain rendah jarak duri
+Input,Jarak Duri,Sini semesta jarak duri,Tinggi,domain tinggi jarak duri
+Output,Keterangan,Sini semesta keterangan,Rendah (Mentah),domain rendah keterangan
+Output,Keterangan,Sini semesta keterangan,Tinggi (Masak),domain tinggi keterangan
