@@ -54,6 +54,10 @@
   width: 100%;
 }
 
+.ini {
+  text-align: justify;
+}
+
 .table th, .table td {
   border: 0px solid #ccc;
   padding: 0.5rem;
